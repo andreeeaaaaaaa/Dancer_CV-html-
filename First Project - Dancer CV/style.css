@@ -1,0 +1,16 @@
+body {
+    background-color: #f2d9e6;
+}
+
+hr {
+    border-style: none;
+    border-top: rgba(116, 88, 91, 0.675) dotted;
+    background-color: #f2d9e6;
+    height: 2px;
+    width: 20%;
+}
+
+.profile-picture:hover{
+    width: 250px;
+    height: 250px;
+}
